@@ -1,0 +1,14 @@
+Game -> Map -> 
+
+Unreal engine -> 
+1. Level
+2. Gamemode
+Blue print ->
+1. Node
+Visual Studio
+1. C++
+
+C++ programming
+1. Class
+   1. Function
+   2. Variable
